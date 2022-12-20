@@ -1,0 +1,23 @@
+1 Banner app download button and and get in touch button remove  -- Done
+2 Header Number Remove -- Done
+3 Logo set left Part and Menu Set right Part -- Done
+4 Product Section Redirect to online order website  -- Done
+
+5 Store Locator redirect https://order.lamilano.pizza/ --Done
+
+6 Application download section all images provide 
+
+7 Franchise Enquiry section remove Opening Time and Call Now and remove black color nad set full screen section 
+   -- Enquiry number add in Franchise Enquiry 
+   -- Franchise Enquiry me City name and State name and Zip code  -- Done
+
+8 footer Section Ho Address add and remove Store address -- Done
+
+9 Special Offer Images Changes -- Done
+
+10 Bogo Offer Images Changes -- Done
+
+11 Promo Codes Offer Images Changes -- Done
+
+12 testimonial Content Changes Content  Use For google Review -- Done
+	
