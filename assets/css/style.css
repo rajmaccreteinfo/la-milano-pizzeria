@@ -1379,10 +1379,10 @@ ul {
   opacity: 1;
 }
 .owl-carousel:hover .owl-nav .owl-next {
-  right: -120px;
+  right: 7px;
 }
 .owl-carousel:hover .owl-nav .owl-prev {
-  left: -120px;
+  left: 7px;
 }
 .owl-carousel .owl-nav {
   opacity: 0;
