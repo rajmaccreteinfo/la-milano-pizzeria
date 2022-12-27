@@ -3052,10 +3052,12 @@ div.lafka_whole_banner_wrapper .coupon .inner .couponCode {
 .single-item-wrap .wrap-details h5 {
   font-weight: 600;
   font-size: 22px;
+  min-height: 58.8px;
 }
 .single-item-wrap .wrap-details .wrap-footer {
   display: flex;
-  align-items: center;
+  align-items: baseline;
+  min-height: 96px;
 }
 .single-item-wrap .wrap-details .wrap-footer .rating {
   font-size: 16px;
@@ -3395,7 +3397,7 @@ div.lafka_whole_banner_wrapper .coupon .inner .couponCode {
 
 /***testimonial-area***/
 .testimonial-area {
-  padding: 135px 0 138px;
+  padding: 85px 0 85px;
   background-image: url(../img/testimonial/1.png);
   background-size: cover;
   background-position: center;
@@ -3517,7 +3519,7 @@ div.lafka_whole_banner_wrapper .coupon .inner .couponCode {
 
 .Franchise_Enquiry {
   padding: 120px 0;
-  background-color: #010f1c !important;
+  background-color: #008940 !important;
 }
 .Franchise_Enquiry .container {
   max-width: 1720px;
@@ -3592,6 +3594,25 @@ div.lafka_whole_banner_wrapper .coupon .inner .couponCode {
   max-width: fit-content;
   border-top: 1px soliD #eb0029;
   margin: 0 auto -0.2em auto;
+}
+
+.footer-inner .row + ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.footer-inner .row + ul li {
+  margin: 0 20px 0 0;
+}
+
+.footer-inner .row + ul li a {
+  color: #fff;
+  font-size: 17px;
+  text-decoration: underline;
 }
 
 /* Responsive */

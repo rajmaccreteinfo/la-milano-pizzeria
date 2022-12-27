@@ -152,9 +152,9 @@
             margin: 15,
             items: 3,
             autoplay:true,
-            autoplayTimeout:1500,
+            autoplayTimeout:3500,
+            autoplaySpeed: 2500,
             autoplayHoverPause:true,
-            smartSpeed:1500,
             navText: [leftAngle,rightAngle],
             responsive: {
                 0: {
@@ -167,7 +167,7 @@
                     items: 3
                 },
                 1400: {
-                    items: 4.5
+                    items: 3.5
                 },
             }
         })
